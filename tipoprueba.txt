@@ -1,0 +1,22 @@
+IRYS LABS
+PRUEBA DESARROLLADOR FRONTEND SEMI-SENIOR
+Problema:
+El administrador de un restaurante requiere listar los usuarios más concurrentes,
+requiere mostrarlo con paginación en el mismo listado y cada usuario debe mostrar su
+información en una nueva pagina o cuadro de dialogo.
+Recursos:
+Los servicios de contenido son los siguientes:
+- Listado de usuarios: https://reqres.in/api/users?page=1 (page es el indicador de la
+pagina)
+- Detalle del usuario: https://reqres.in/api/users/{id} (id es el indicador del usuario)
+Requisitos y condiciones:
+- Diseñar un boceto a mano o con herramientas digitales, el resultado visual del
+objetivo.
+- El diseño debe ser adaptativo para web y móviles.
+- Desarrollar una webapp que permita suplir las necesidades del objetivo.
+- Debe utilizar JavaScript como lenguaje de programación, ReactJS como marco de
+trabajo y opcionalmente librería de diseño Bootstrap 4.
+- Se valorará el uso de buenas prácticas de programación, creatividad, usabilidad,
+experiencia de usuario y arquitectura interna del proyecto.
+- Debe proporcionarse el código fuente del producto final para poder instalarse y
+ejecutarse de forma fácil en un entorno de desarrollo local.
